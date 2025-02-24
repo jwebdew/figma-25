@@ -11,7 +11,7 @@
 # 목업
 ## 목업 1 : https://www.figma.com/design/5lALgJU2kQdhmkgeChpOWu/eCommerce-Header-Design-%7C%7C-Website-Mock-up-(Community)?node-id=0-1&p=f&t=kCpVZOYE57Jn8en6-0 <br />
 ## 목업 2 : https://www.figma.com/design/Ko8EmOux0QL4mqow5G4EVt/portfolio-template-(Community)?node-id=92-1475&t=KwEI1kMaZnC4lwt6---
-----------
+ 
 ## 피그마 작업시 사용하기 좋은 플러그인
 - unsplash : 무료 이미지
 - Figma Docs : 스타일가이드 제작
